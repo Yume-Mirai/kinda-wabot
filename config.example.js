@@ -4,8 +4,8 @@ import { fileURLToPath } from 'url'
 import Helper from './lib/helper.js'
 import "dotenv/config";
 
-global.nomorown = '6285157571221'
-global.mods = ['6285157571221']
+global.nomorown = '6285187238716'
+global.mods = ['6285187238716']
 global.nomorbot = 'xxxxx'
 
 global.db = Helper.opts['dev'] ? '' : 'MONGODB_URL'
